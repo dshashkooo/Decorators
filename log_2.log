@@ -1,0 +1,20 @@
+Date and time: 2024-04-05 19:16:42.231001
+old_function.__name__='hello_world'
+args=(), kwargs={}
+old_function(*args, **kwargs)='Hello World'
+
+Date and time: 2024-04-05 19:16:42.231001
+old_function.__name__='summator'
+args=(2, 2), kwargs={}
+old_function(*args, **kwargs)=4
+
+Date and time: 2024-04-05 19:16:42.231001
+old_function.__name__='div'
+args=(6, 2), kwargs={}
+old_function(*args, **kwargs)=3.0
+
+Date and time: 2024-04-05 19:16:42.231001
+old_function.__name__='summator'
+args=(4.3,), kwargs={'b': 2.2}
+old_function(*args, **kwargs)=6.5
+

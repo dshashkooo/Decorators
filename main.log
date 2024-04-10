@@ -1,0 +1,30 @@
+Date and time: 2024-04-05 16:29:34.212323
+name='hello_world'
+args=(), kwargs={}
+arguments='Hello World'
+
+Date and time: 2024-04-05 16:29:34.212323
+name='summator'
+args=(2, 2), kwargs={}
+arguments=4
+
+Date and time: 2024-04-05 16:29:34.212323
+name='div'
+args=(6, 2), kwargs={}
+arguments=3.0
+
+Date and time: 2024-04-05 16:29:34.213320
+name='summator'
+args=(4.3,), kwargs={'b': 2.2}
+arguments=6.5
+
+Date and time: 2024-04-05 16:29:34.213320
+name='summator'
+args=(), kwargs={'a': 0, 'b': 0}
+arguments=0
+
+Date and time: 2024-04-10 12:43:28.072058
+name='get_the_smartest_superhero'
+args=([1, 2, 3, 4, 5],), kwargs={}
+arguments='Abe Sapien'
+
